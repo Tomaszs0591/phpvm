@@ -47,3 +47,4 @@ Notes and usage details for phpvm.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
