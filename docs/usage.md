@@ -54,3 +54,4 @@ Notes and usage details for phpvm.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
