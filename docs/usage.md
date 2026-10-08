@@ -72,3 +72,4 @@ Notes and usage details for phpvm.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
